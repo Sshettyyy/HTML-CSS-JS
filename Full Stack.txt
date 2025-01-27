@@ -40,8 +40,7 @@ Programs:
         <!--td:table data-->
         <td>wipro</td>
         <td>abc@wipro.com</td>
-        
-      </tr>
+       </tr>
       <tr>
         <td>nasa</td>
         <td>xyz@nasa.com</td>
@@ -49,7 +48,6 @@ Programs:
       </table>
       </body>
 </html>
-
 
 2)))))))))))))))))))))))))))))))))
 
@@ -95,7 +93,6 @@ Programs:
 
 3)))))))))))))))))))))))))))))))))))
 
-
 <html>
   <head>
     <title>tables and input tags</title>
@@ -136,12 +133,7 @@ Programs:
       </body>
 </html>
 
-
-
 4))))))))))))))))))))))))))))
-
-
-
 
 <html>
   <head>
@@ -198,7 +190,7 @@ Programs:
       </body>
 </html>
 
-5)))))))))))))))))))))))))))))))))))))))))
+5))))))))))))))))
 
 <html>
   <head>
@@ -542,7 +534,7 @@ u>i{
 }
 
 
-
+9))))))))))))))))))))))
 <html>
 <hrad>
 <title>selectors in css</head>
@@ -574,10 +566,7 @@ css:h6{
     margin:20px;
     margin:0px 10px 15px 20px;
     
-9))))))))))))))))))))))))))))))
-
-
-
+10)))))))))))))))))))))))))))))
 
 
 <html>
@@ -745,7 +734,7 @@ Spacings:
 
 
 
-10))))))))))))))))))))))))))
+11))))))))))))))))))))))))))
     Pseudo Classes:
             >> These are mainly used to apply styles to a particular state of an element/tag.
  -->
@@ -848,7 +837,7 @@ css::::
  </html>
 
 
-10}}}}}}}}}}}}}}}}}}}}}}}}}}
+1}}}}}}}}}}}}}}}}}}}}}}}}}}
 
 animations
 <html>
@@ -931,7 +920,7 @@ css:::.box{
 
 
 
-11))))))))))))))))))))))))))))))))))))))
+1))))))))))))))))))))))))))))))))))))))
 <html>
   <head>
     <title>
