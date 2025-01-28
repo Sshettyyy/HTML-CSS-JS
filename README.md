@@ -321,7 +321,7 @@ Programs:
 
 
 7)))))))))))))))))))))))))))))))))))))))))))))))))
-SEMANTIC TAGS
+<!--SEMANTIC TAGS-->
 <html>
   <head>semantic tags</head>
   <body>
@@ -339,7 +339,7 @@ SEMANTIC TAGS
     </body>
 </html>
 
-INLINE CSS
+<!--INLINE CSS-->
 <html>
   <head>
     <title>
@@ -355,7 +355,7 @@ INLINE CSS
   </head>
 </html>
 
-INTERNAL OR EMBEDED CSS
+<!--INTERNAL OR EMBEDED CSS-->>
 <html>
   <head>
     <title>
@@ -372,7 +372,7 @@ INTERNAL OR EMBEDED CSS
   </head>
 </html>
 
-EXTERNAL CSS(NOT CORRECT CODE)))))))))
+<!--EXTERNAL CSS(NOT CORRECT CODE-->)))))))))
 <html>
   <head>
     <title>
@@ -389,8 +389,7 @@ EXTERNAL CSS(NOT CORRECT CODE)))))))))
 </html>
 
 8))))))))))))))))))))))))))))))))))))))))))
-selectors and box modelssss
-html
+<!--selectors and box modelssss-->
 <html>
   <head>
     <title>selectos in css</title>
@@ -429,7 +428,7 @@ cssssss
     background:black;
     
     }
-html>
+<html>
   <head>
     <title>selectos in css</title>
     <link href="./day11.css" rel="stylesheet">
@@ -443,7 +442,7 @@ html>
     <p>hey its p2</p2>
 </body>
 </html> 
-csss:/*5class selector
+csss:/*5class selector/
     .h2classselector{
     color:pink;
     border:2px solid blue;
@@ -451,6 +450,7 @@ csss:/*5class selector
     width:40px;
     height:40px;
     border-radius:50%
+    
 
 <html>
   <head>
