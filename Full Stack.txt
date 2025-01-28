@@ -1009,3 +1009,32 @@ if screen size in range of 0-1200*/
         color:blue;;
     }
 }
+
+
+13))))))))))))))))))
+var obj name={
+student=("Suhas",Surishetty")
+}
+
+var obj={
+name="Suhas";
+age=21
+}
+obj.age
+
+var obj 2={
+name="Suhas"
+age=9
+}
+var obj={
+name="ss"
+age=22
+}
+var new arr=[obj1,obj2]
+
+
+
+
+
+
+
