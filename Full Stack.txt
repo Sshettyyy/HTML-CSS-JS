@@ -1048,7 +1048,24 @@ console.log)("include",data.include("hey");
 var  new data="Suhas"
 console.log("slice",newdata.slice(2,-2)
 <!--o/p:h,a-->
+<!--js operations-->
+var num1=10;
+var num2=2;
+var sum=num1+num2;
+console.log(sum);
+<!--functions js-->
+var sum=[a,b]=>{
+console.log(a+b)
+}
+sum(4,5);
 
+<!--array method-->.
+var array={1,2,3,4}
+console.log("current array=>",array);
+var new array=array.map(data)=>data+2);
+console.log("new array=>with map=>new array);
+<!--o/p:current array ={1,2,3,4,5}
+new array=>with map={3,4,5,6,7}-->
 
 
 
