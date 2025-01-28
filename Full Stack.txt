@@ -1032,6 +1032,26 @@ age=22
 }
 var new arr=[obj1,obj2]
 
+<!--string operations
+slice operations-->
+console.log("slice:",data.slice(1,2);
+<!--data: hey
+o/p:h y-->
+
+<!--length o/p=3-->
+<!--replace-->
+console.log)("replace",data.replace("hey"."hi");
+data=data.replace("hey","hi")
+<!--include-->
+console.log)("include",data.include("hey");
+<!--index-->
+var  new data="Suhas"
+console.log("slice",newdata.slice(2,-2)
+<!--o/p:h,a-->
+
+
+
+
 
 
 
