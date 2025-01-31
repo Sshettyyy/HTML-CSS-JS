@@ -319,7 +319,7 @@ Programs:
   </body>
 </html>
 
-
+<!--
 7)))))))))))))))))))))))))))))))))))))))))))))))))
 <!--SEMANTIC TAGS-->
 <html>
@@ -1065,3 +1065,4 @@ var new array=array.map(data)=>data+2);
 console.log("new array=>with map=>new array);
 <!--o/p:current array ={1,2,3,4,5}
 new array=>with map={3,4,5,6,7}-->
+-->
