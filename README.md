@@ -1,4 +1,3 @@
-<html>
   <head>
     <title>tables and input tags</title>
   </head>
@@ -13,7 +12,7 @@
         
       </tr>
       <tr>
-        <td>3</td>
+        <td>2</td>
         <td>4</td>
       </tr>
       </table>
